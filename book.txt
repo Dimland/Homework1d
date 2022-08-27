@@ -10,18 +10,16 @@ delete
 
 15
 16
-LLLLLLLLLLL
+
 
 20
 -----
 21
 ----
 24
------
-26sdfsdf
+
+26
 27
 28
 29sdfsdsdcsd
 31
-
-NNNNNNNNNNNNNNNNNNNNNNNNNNN
